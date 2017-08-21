@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Database" namespace="Database.Domain">
+  <class name="Project">
+    <id name="Id">
+      <generator class="guid" />
+    </id>
+    <property name="Name" not-null="true">
+      <column name="Name" unique-key="ProjectName"/> 
+    </property>
+    <property name="Description" not-null="true"/>
+    <!-- One-to-many mapping: Processes -->
+    <bag name="Processes" cascade="all-delete-orphan" lazy="false">
+      <key column="ProjectId" foreign-key="FK_Project_Process"/>
+      <one-to-many class="Process" />
+    </bag>
+  </class>
+</hibernate-mapping>

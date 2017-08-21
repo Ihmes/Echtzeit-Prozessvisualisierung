@@ -1,0 +1,287 @@
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csprojResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Katuschi\Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\LiveContext.Utility.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\bin\x86\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.baml
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\VersionInfo.g.cs
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility_MarkupCompile.cache
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.g.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.de.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.Localization.LiveContextUtility.fr.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\de\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\fr\LiveContext.Utility.resources.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\LiveContext.Utility\obj\x86\Debug\LiveContext.Utility.pdb

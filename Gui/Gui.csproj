@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5326B7FD-DDB2-4D8F-8F72-B0F68095502D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gui</RootNamespace>
+    <AssemblyName>Gui</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ManagedWinapi, Version=0.3.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\libs\managedwinapi\ManagedWinapi.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Childs.cs" />
+    <Compile Include="ProcessStepView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessStepView.Designer.cs">
+      <DependentUpon>ProcessStepView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularEventArgs.cs" />
+    <Compile Include="DesignerMainFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesignerMainFrame.Designer.cs">
+      <DependentUpon>DesignerMainFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoRectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoRectangle.designer.cs">
+      <DependentUpon>InfoRectangle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrame.Designer.cs">
+      <DependentUpon>MainFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProcessFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProcessFrame.Designer.cs">
+      <DependentUpon>NewProcessFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProjectFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProjectFrame.Designer.cs">
+      <DependentUpon>NewProjectFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recorder.cs" />
+    <Compile Include="RecordFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecordFrame.Designer.cs">
+      <DependentUpon>RecordFrame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Res.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Res.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Res2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Res2.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedObjects.cs" />
+    <Compile Include="simpleBtn_delete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="simpleButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Visualizer.cs" />
+    <EmbeddedResource Include="ProcessStepView.resx">
+      <DependentUpon>ProcessStepView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DesignerMainFrame.resx">
+      <DependentUpon>DesignerMainFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoRectangle.resx">
+      <DependentUpon>InfoRectangle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrame.resx">
+      <DependentUpon>MainFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProcessFrame.resx">
+      <DependentUpon>NewProcessFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProjectFrame.resx">
+      <DependentUpon>NewProjectFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RecordFrame.resx">
+      <DependentUpon>RecordFrame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Res.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Res2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Res2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Database\Database.csproj">
+      <Project>{4F1ED77C-7BD3-4E2A-8C87-667F222D9705}</Project>
+      <Name>Database</Name>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </ProjectReference>
+    <ProjectReference Include="..\LiveContext.Configuration\LiveContext.Configuration.csproj">
+      <Project>{111A3B47-DDA1-483A-93B7-666ACDC29176}</Project>
+      <Name>LiveContext.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Technologies\Technologies.csproj">
+      <Project>{49516747-43C0-4706-8263-F22D709AFB8B}</Project>
+      <Name>Technologies</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_1_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_1_orange_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_1_orange_over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_2_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_2_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_2_orange_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_2_orange_over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_orange_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_orange_hover.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

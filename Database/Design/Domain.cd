@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Database.Domain.Project">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAgAAAEAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Project.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProcessList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Database.Domain.Process">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgCAAAAAAICAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Process.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProcessStepList" />
+      <Property Name="Project" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Database.Domain.ProcessStep">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <AssociationLine Name="ProcessList" Type="System.Collections.Generic.IList&lt;T&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.058" Y="0.883" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAgAAAAAAAAAAQAAAAAAAABAQIACAAAAAA=</HashCode>
+      <FileName>Domain\ProcessStep.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ProcessList" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="System.Collections.Generic.IList&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

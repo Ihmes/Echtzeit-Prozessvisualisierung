@@ -1,0 +1,108 @@
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\TP_Martin\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Katuschi\Desktop\fuerMarkus\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\kathaneu\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Documents\My Dropbox\Teamprojekt WIN 6\agi\kathaneu - Kopie\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+D:\Dropbox\006_Teamprojekt WIN 6\fuerMarkus\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_5_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\geheim\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\fuerMarkus\Desktop\geheim_neu\neu\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130404\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130409_Tip\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\Prototyp_Elementerkennung.pdb
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\bin\Debug\ManagedWinapi.dll
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.Properties.Resources.resources
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.csproj.GenerateResource.Cache
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.exe
+C:\Users\Markus\Desktop\Version_6_00_20130409\Initializer\trunk\Prototyp_Elementerkennung\obj\x86\Debug\Prototyp_Elementerkennung.pdb
